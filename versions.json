@@ -1,12 +1,13 @@
 {
   "clipber": {
     "version": "1.1.827",
-    "downloadUrl": "https://github.com/KalinuxYT/CSweet-Updates/releases/download/v1.1.827/Clipber-1.1.827.zip",
+    "downloadUrl": "https://github.com/KalinuxYT/CSweet-Updates/releases/download/Clipber-v1.1.827/Clipber-1.1.827.zip",
     "changelog": "- Initial release for version checking"
   },
   "vodber": {
     "version": "1.0.377",
-    "downloadUrl": "https://github.com/KalinuxYT/CSweet-Updates/releases/download/v1.0.377/VODber-1.0.377.zip",
+    "downloadUrl": "https://github.com/KalinuxYT/CSweet-Updates/releases/download/VODber-v1.0.377/VODber-1.0.377.zip",
     "changelog": "- Initial release for version checking"
   }
 }
+
